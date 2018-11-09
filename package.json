@@ -1,5 +1,5 @@
 {
-  "name": "indecision-redux",
+  "name": "my-boilerplate-firebase",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -38,11 +38,12 @@
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "jest": "^23.6.0",
     "live-server": "^1.2.0",
+    "mini-css-extract-plugin": "^0.4.4",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
-    "webpack": "^4.12.1",
+    "webpack": "^4.25.1",
     "webpack-cli": "^3.0.8",
-    "webpack-dev-server": "^3.0.0-alpha6"
+    "webpack-dev-server": "^3.1.10"
   }
 }
