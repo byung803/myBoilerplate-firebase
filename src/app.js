@@ -7,6 +7,7 @@ import reducer from './reducers';
 import Router from './router';
 import './styles/styles.scss';
 import 'normalize.css/normalize.css';
+import './firebase/firebase';
 
 const store = createStore(
     reducer,
